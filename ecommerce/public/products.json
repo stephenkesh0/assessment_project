@@ -1,0 +1,75 @@
+
+[
+  {
+      "id":1,
+     "title":"Adicolor Classics Joggers",
+     "category": "Dress",
+     "price": 63.85,
+     "productDetails": "Experience comfort and style with our Joggers. Made from premium, breathable fabric, they offer a perfect fit and effortless movement. Ideal for any occasion, these joggers combine sleek design with cozy feel.",
+      "image":"/images/products/image1.png",
+      "status": "Best Selers"
+  },
+  {
+      "id":2,
+     "title":"Nike Sportswear Futura",
+     "category": "Bag",
+     "price": 130.00,
+     "productDetails": "Carry your essentials in style with the Nike Sportswear Futura bag. Featuring sleek design and durable materials, it combines practicality with modern flair. Perfect for any adventure, it makes you effortlessly slick.",
+     "image":"/images/products/image2.png",
+     "status": "Best Selers"
+  },
+  {
+      "id":3,
+     "title":"Geometric print Scarf",
+     "category": "Dress",
+     "price": 53.00,
+     "productDetails": "Add a touch of elegance with our Geometric Print Scarf. Its vibrant patterns and soft fabric effortlessly enhance any outfit. Perfect for any season, this scarf is your go-to accessory for a slick stylish look.",
+     "image":"/images/products/image3.png",
+     "status": "Best Selers"
+  },
+  {
+      "id":4,
+     "title":"Yellow Reserved Hoodie",
+     "category": "Hoodies",
+     "price": 63.85,
+     "productDetails": "Brighten your wardrobe with our Yellow Reserved Hoodie. This vibrant, cozy essential offers a perfect blend of comfort and standout style. Ideal for any casual outing, it's your go-to piece for a bold, fashionable look.",
+     "image":"/images/products/image4.png",
+     "status": "New Arriaval"
+  },
+  {
+      "id":5,
+     "title":"Basic Dress Green",
+     "category": "Dress",
+     "price": 236.00,
+     "productDetails": "Embrace effortless elegance with our Basic Green Dress. Its timeless design and flattering fit make it perfect for any occasion. Step out in style and confidence with this versatile wardrobe staple.",
+     "image":"/images/products/image5.png",
+     "status": "New Arriaval"
+  },
+  {
+      "id":6,
+     "title":"Nike Air Zoom Pegasus",
+     "category": "Shoe",
+     "price": 198.00,
+     "productDetails": "Unleash your potential with the Nike Air Zoom Pegasus. Engineered for ultimate comfort and responsive performance, these shoes elevate your run. Experience unmatched speed and style with every stride.",
+     "image":"/images/products/image6.png",
+     "status": "Best Selers"
+  },
+  {
+      "id":7,
+     "title":"Nike Repel Miler",
+     "category": "Hoodies",
+     "price": 120.50,
+     "productDetails": "Stay unstoppable in the Nike Repel Miler. Designed to keep you dry and comfortable, this top offers superior performance in any weather. Elevate your runs with lightweight, water-repellent protection and style.",
+     "image":"/images/products/image7.png",
+     "status": "Best Selers"
+  },
+  {
+      "id":8,
+     "title":"Nike Sportswear Glasses",
+     "category": "Glasses",
+     "price": 160.00,
+     "productDetails": "Elevate your look with Nike Glasses. Combining sleek design with superior clarity, these glasses offer style and precision. Perfect for any activity, they enhance your vision and boost your confidence.",
+     "image":"/images/products/image8.png"
+  }
+ 
+]
